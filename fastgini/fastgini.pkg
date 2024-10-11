@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'fastgini': Fast algorithm for calculation of Gini coefficient and it's jackknife standard errors Use fastgini With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f fastgini.ado
+f fastgini.hlp
