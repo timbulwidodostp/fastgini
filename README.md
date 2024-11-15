@@ -1,6 +1,8 @@
 # fastgini
 Fast algorithm for calculation of Gini coefficient and it's jackknife standard errors Use fastgini With STATA 18
 
+https://www.youtube.com/watch?v=T0I7beE2OUY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
